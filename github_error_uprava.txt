@@ -1,6 +1,7 @@
 Error git –email a git –username
 
 A) Pokud se přihlašujete do vs code poprvé, tak je potřeba do terminálu napsat tento
-příkaz git config --global user.name „vasusername" git config --global user.email
-"vasemailnagithub"
+příkaz 
+git config --global user.name „vasusername" 
+git config --global user.email "vasemailnagithub"
 B) Poté by to mělo fungovat
